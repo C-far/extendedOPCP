@@ -1,0 +1,8 @@
+{
+	"user": "C_far",
+	"repo": "extendedOPCP",
+	"dependencies": [
+		"IllidanS4/YSF",
+        "samp-incognito/samp-streamer-plugin"
+	]
+}
